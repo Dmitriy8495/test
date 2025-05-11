@@ -6,3 +6,8 @@ Last name - Egorchev
 email - test@mail.ru
 ago - 30 
 status - married
+<<<<<<< HEAD
+=======
+wife:
+	first name - Julia
+>>>>>>> test
