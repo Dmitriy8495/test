@@ -5,4 +5,4 @@ first name - Dima
 Last name - Egorchev
 email - test@mail.ru
 ago - 30 
-main
+status - married
