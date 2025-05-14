@@ -10,3 +10,4 @@ test
 Add line
 Commit test
 Commit test2
+GIT BASH
